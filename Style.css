@@ -1,0 +1,39 @@
+body{
+    background-color:bisque;
+    width: 400px;
+}
+form{
+    margin-bottom:  20px;
+}
+button{
+    width: 20%;
+    padding: 10px;
+    border: none;
+    background-color: deeppink;
+    text-decoration: none;
+    border-radius: 20px;
+    color: aliceblue;
+    display: inline-block;
+    font-size: 16px;
+    transition-duration: 0.10s;
+    margin-bottom:5%;
+    cursor: pointer;
+    
+}
+button:hover{
+   background-color:green;
+}
+#task{
+    color: brown;
+    font-size: 20px;
+    margin: 8px;
+    width: 70%;
+    padding: 12px 20px;
+    box-sizing: border-box;
+}
+li{
+    background-color: darkolivegreen;
+    color: aliceblue;
+    padding: 10px;
+    margin-bottom: 10px;
+}
